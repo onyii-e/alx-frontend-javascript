@@ -14,5 +14,5 @@ export function taskNext()
 	let combination = 'But sometimes let';
 	combination += getLast();
 
-	retrun combination;
+	return combination;
 }
