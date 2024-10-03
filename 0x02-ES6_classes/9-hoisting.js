@@ -30,4 +30,3 @@ export class StudentHolberton {
   get holbertonClass() {
     return this._holbertonClass;
   }
-
